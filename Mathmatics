@@ -1,0 +1,12 @@
+Mathmatics of openobject api is special:
+
+Trinagulation and Circualtion data frames and aligned with the avaialble cpu threads
+
+Hence 2n math mathmatics is triangulated/circulated to 3n mathmatics
+
+Such algorithms are following pythagorean theorem: a2+b2 = c2
+
+Splitting vars into x,y,z and delta unit of time is calculated as Zelda (a data matrix of x,y,z) to calculates c=xy or xz values to pin cpu threads with dev calls
+
+Formula:
+Zelda[(x,y,z)] = 30 -> A 3n computation on or less batch process running in parallel to respond to ci/cd calls.

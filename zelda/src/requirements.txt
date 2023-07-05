@@ -1,0 +1,2 @@
+conda package manager for python libraries is used for this runs
+Install conda and set the environment, see conda cheat sheet for setting a python environment

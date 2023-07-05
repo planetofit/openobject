@@ -1,0 +1,4 @@
+All transations of open objects are saved in a cache folder location in home folder of where process is running
+Default is ~/cache/ ~ .... xml or json files
+
+Cache folder is always locked when programs are running, thus creating a sub cache folder is wise to transactionally indexing, removing and sorting cache files

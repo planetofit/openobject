@@ -1,0 +1,8 @@
+Services:
+openObject works best when running as a microservice and respond to any self calls ()
+Between a process and a service, a port mapper can update service if process id is changed, upon then service is restarted, it restart the process whose id was recieved and restart by jumping to a service just started service the new process, hence circualation of process id is done via http calls ()
+
+
+
+
+

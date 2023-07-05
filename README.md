@@ -1,14 +1,14 @@
 # openobject
 A python object to rotate api calls between application and networking devices
 
-Python main() calls an objectclass to capture the embeded build number for ci/cds to pass the build number to sre
+Python main() calls an objectClass to capture the embeded build number for ci/cds to pass the build number to sre
 SRE spits the data in telemetry calls
-Telemetry calls are pulled from api and passed to the next build number
+Telemetry calls are pulled from various ci/cd apis and passed to the next build number
 
-Python save this transactions in its default cache folder which can be a single file in structured language such as json and xml
-Cache file act as a default to maintain and file and folder structure for such transaction
+Python saves the transactions in its default cache folder which can be a single file in structured language such as json and xml
+Cache file act as a default schema (for urls and uris) to maintain and file and folder structure for such transaction
 
-Goal of this object is to capture exchnage calls between apis so active and passive port calls are rotated
+Goal of this object is to capture exchange calls between apis so active and passive port calls are rotated
 
 
 Example:
